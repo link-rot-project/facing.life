@@ -11,5 +11,7 @@ jobs:
     - uses: "pnpm/action-setup@v2"
       with:
         version: 8
+    - name: "Test"
+      run: "ls -hal"
     - name: "Run"
       run: "./node_modules/.bin/hyperlink -r ."
