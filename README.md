@@ -1,6 +1,9 @@
 # About Facing Life
 This webpage is a mirror of the original content created and published by Brandon Tauzik on his website at [https://www.facing.life/](https://www.facing.life/).
 
+## Staging Website
+[https://facing-life.testing.sutty.nl/robin/](https://facing-life.testing.sutty.nl/robin/)
+
 #### Challenge
 As an independent journalist, Brandon’s work is often vulnerable to disappearing from the internet. Even when published by a large outlet like the Red Cross, the maintenance and hosting of his work became an issue in the long term, and to ensure this work is still available, he now self-hosts a public website. Work published by the SF Chronicle was only available in print and/or paywalled, adding similar issues to the sharing and coverage of his work. 
 Brandon is looking to explore options to capture and preserve the work published on websites that are subject to disappearance or ‘Link Rot’, as well as find solutions that are less costly than the current self-hosting solution, that can be easily used by other creators that are also looking to solve the link rot problem.
@@ -15,8 +18,6 @@ Technology over the past few decades has progressed at a breakneck speed. The st
 With the Link Rot project, we anticipate that the next few decades will continue to bring about a similar change and evolution in the technology used to store and share information, and we want to publish journalists’ work in a way that is accessible in both current systems, and published on distributed, future-facing solutions such as IPFS and Hypercore. This project will also be archived in the distributed Filecoin storage network. 
 
 
-## Staging Website
-[https://facing-life.testing.sutty.nl/robin/](https://facing-life.testing.sutty.nl/robin/)
 
 ### Collaborators
 
