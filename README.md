@@ -1,6 +1,12 @@
 # About Facing Life
 This webpage is a mirror of the original content created and published by Brandon Tauzik on his website at [https://www.facing.life/](https://www.facing.life/).
 
+The new IPFS domain:
+* Agregore: ipns://facing-life.testing.sutty.nl
+* ipns://facing-life.testing.sutty.nl
+* https://facing--life-testing-sutty-nl.ipns.ipfs.hypha.coop/
+ 
+
 ## Staging Website
 [https://facing-life.testing.sutty.nl/](https://facing-life.testing.sutty.nl/)
 
