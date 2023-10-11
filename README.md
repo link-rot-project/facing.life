@@ -5,6 +5,10 @@ The new IPFS domain:
 * Agregore: ipns://facing-life.testing.sutty.nl
 * ipns://facing-life.testing.sutty.nl
 * https://facing--life-testing-sutty-nl.ipns.ipfs.hypha.coop/
+* ipns://facing.life
+* hyper://facing.life
+* https://facing-life.hyper.hypha.coop/
+* https://facing-life.ipns.ipfs.hypha.coop/
  
 
 ## Staging Website
