@@ -1,3 +1,6 @@
+# Archived and moved to [https://github.com/facinglife-syriastreet/facing.life](https://github.com/facinglife-syriastreet/facing.life)
+
+
 # About Facing Life
 This webpage is a mirror of the original content created and published by Brandon Tauzik on his website at [https://www.facing.life/](https://www.facing.life/).
 
